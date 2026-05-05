@@ -1,0 +1,34 @@
+# Core
+fastapi
+uvicorn
+python-dotenv
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+
+# Mistral integration
+mistralai
+
+# Embeddings & Vector DB
+faiss-cpu
+tiktoken
+
+# Data processing
+numpy
+pandas
+
+# HTTP & scraping (for your ingestion)
+requests
+beautifulsoup4
+
+# Optional (better performance / async)
+httpx
+aiofiles
+
+# Optional (if using local models fallback later)
+sentence-transformers
+
+# JSON handling & utils
+pydantic
